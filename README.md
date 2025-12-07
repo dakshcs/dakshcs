@@ -38,15 +38,5 @@
 > ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dakshcs&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshcs&layout=compact&theme=tokyonight" />
-</p>
-
----
 Fuelled by curiosity, caffeine, and chaotic code.
 
