@@ -1,5 +1,3 @@
-<h1><strong>Hi, I've migrated to Codeberg. You can find me <a href=https://codeberg.org/daksh_s>here</a></strong></h1>
-
 <div align="center">
 
 # Daksh Shrivastav
