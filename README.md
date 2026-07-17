@@ -34,7 +34,7 @@ accept task → panic → research furiously → build thing → fix till thing 
 
 <div align="center">
 
-| 🤖 robotics | 🚁 drones & hardware | 💻 programming | 🎨 design & CAD | 🔌 IoT & automation |
+| robotics | drones & hardware | programming | design & CAD | IoT & automation |
 |:---:|:---:|:---:|:---:|:---:|
 | robosoccer | drone building | coding competitions | 3D modeling | Arduino projects |
 | robowar | flight competitions | algorithm challenges | CAD & sims | Raspberry Pi |
@@ -81,7 +81,7 @@ also dabbled in: debates, GK competitions, and various other things i said "sure
 
 ---
 
-## 📊 stats
+## stats
 
 i don't believe more lines of code/number of commits/consistency of commits means better code. when a measure becomes a target, it ceases to be a good measure. for any differing opinions, you may refer to [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law).
 
@@ -89,13 +89,13 @@ i don't believe more lines of code/number of commits/consistency of commits mean
 
 ---
 
-## 💡 random skills acquired through necessity
+## random skills acquired through necessity
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💻 software
+### software
 - web development (HTML/CSS/JS)
 - mobile apps (Flutter/Dart)
 - Python automation
@@ -108,7 +108,7 @@ i don't believe more lines of code/number of commits/consistency of commits mean
 </td>
 <td width="50%" valign="top">
 
-### 🔧 hardware
+### hardware
 - Arduino & Raspberry Pi
 - PCB design
 - circuitry
@@ -121,37 +121,6 @@ i don't believe more lines of code/number of commits/consistency of commits mean
 </td>
 </tr>
 </table>
-
----
-
-## 🎯 current status
-
-```bash
-#!/bin/bash
-while true; do
-    read -p "new challenge accepted? (y/n): " answer
-    case $answer in
-        [Yy]* )
-            echo "confidence level: 0%"
-            sleep 2
-            echo "opening 47 Stack Overflow tabs..."
-            grep -r "how to" ~/brain/* 2>/dev/null || echo "no prior knowledge found"
-            
-            until [ $success -eq 1 ]; do
-                ./attempt_solution.sh
-                [ $? -eq 0 ] && success=1 || echo "failed. trying again at 3 AM..."
-            done
-            
-            echo "somehow works"
-            echo "better than expected lol"
-            git add skills.log && git commit -m "accidentally learned another thing"
-            ;;
-        * ) 
-            echo "lies. we both know you'll say yes."
-            ;;
-    esac
-done
-```
 
 ---
 
