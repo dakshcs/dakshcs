@@ -2,55 +2,47 @@
 
 # Daksh Shrivastav
 
-*building things, breaking things, learning things; usually in that order*
+student · robotics, hardware, and somewhat full-stack dev · Delhi, India
 
 </div>
 
 ---
 
-## about me
+## about
 
-```javascript
-const daksh = {
-    location: "Delhi, India",
-    title: "student",
-    approach: "say yes first, code frantically, deliver something better than expected",
-    currentFocus: ["anything that sounds interesting", "whatever breaks next"],
-    funFact: "I once fixed a VB script by pure spite for Excel"
-};
-```
+### functional polymath, for lack of a better term
 
-### i'm a functional polymath...
-#### ie. i specialize in taking on things i technically shouldn't know how to do yet, learning them unreasonably fast, and producing results that make people question whether i actually just learned it. 
-this chaos-driven approach has resulted in me learning: web dev, mobile apps, video/photo/audio editing, music production, 3D modeling, UI/UX, robotics, electronics, PCB design, CAD, hardware modding, soldering, game modding, a concerning amount of repair work and science-y things.
+i take on things i technically shouldn't know how to do yet, learn them fast, and produce results that make people double-check whether i actually understand it or just got lucky. it's usually the former.
 
-### my learning philosophy
+this pattern has produced real, working output in: web dev, mobile apps, video/photo/audio editing, music production, 3D modeling, UI/UX, robotics, electronics, PCB design, CAD, hardware modding, soldering, game modding, and enough repair work to count as a skill on its own.
 
-accept task → panic → research furiously → build thing → fix till thing works → repeat
+### how things actually get learned here
+
+take the task → research fast, no hand-holding → build it → fix it until it's solid → move on
 
 ---
 
-## experienced in
+## stuff i've touched
 
 <div align="center">
 
-| robotics | drones & hardware | programming | design & CAD | IoT & automation |
+| robotics | drones & hardware | code | design & CAD | iot / automation |
 |:---:|:---:|:---:|:---:|:---:|
-| robosoccer | drone building | coding competitions | 3D modeling | Arduino projects |
-| robowar | flight competitions | algorithm challenges | CAD & sims | Raspberry Pi |
-| robosumo | PCB design | logic & reasoning | technical design | smart systems |
+| robosoccer | drone building | comp programming | 3D modeling | arduino stuff |
+| robowar | flight comps | algo challenges | CAD & sims | raspberry pi |
+| robosumo | PCB design | "logic and reasoning" | technical design | smart systems |
 
 </div>
 
-also dabbled in: debates, GK competitions, and various other things i said "sure, i can do that" to.
+also: debates, GK comps, and various other things i agreed to before thinking it through.
 
 ---
 
-## tech stack
+## tech stack, for what it's worth
 
 <div align="center">
 
-### programming & development
+### programming & dev
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -77,31 +69,32 @@ also dabbled in: debates, GK competitions, and various other things i said "sure
 ![Darktable](https://img.shields.io/badge/Darktable-2E3338?style=for-the-badge&logo=darktable&logoColor=white)
 ![KeyShot](https://img.shields.io/badge/KeyShot-FF6C37?style=for-the-badge&logo=keyshot&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+
 </div>
 
 ---
 
-## stats
+## on stats
 
-i don't believe more lines of code/number of commits/consistency of commits means better code. when a measure becomes a target, it ceases to be a good measure. for any differing opinions, you may refer to [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law).
+commit counts and green squares aren't a proxy for good work — when a metric becomes the target, it stops measuring anything useful. see [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law) if that needs backing up.
 
-**TL;DR:** people who don't know what they're talking about should not be making decisions about said thing.
+**tl;dr:** don't evaluate code by the metadata around it.
 
 ---
 
-## random skills acquired through necessity
+## skills, mostly acquired by necessity
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### software
-- web development (HTML/CSS/JS)
+- web dev (HTML/CSS/JS)
 - mobile apps (Flutter/Dart)
-- Python automation
-- Bash scripting
-- UI/UX design 
-- game modding (Frostbite engine games)
+- python automation
+- bash scripting
+- UI/UX
+- game modding (frostbite engine, mostly)
 - video/audio/photo editing
 - 3D modeling
 
@@ -109,14 +102,14 @@ i don't believe more lines of code/number of commits/consistency of commits mean
 <td width="50%" valign="top">
 
 ### hardware
-- Arduino & Raspberry Pi
+- arduino & raspberry pi
 - PCB design
 - circuitry
-- CAD (mechanical design)
+- CAD / mechanical design
 - soldering
 - PC building & modding
-- networking (the cables kind, not the shitty linkedin kind)
-- various repairing skills
+- networking (cables, not the LinkedIn kind)
+- fixing things that shouldn't need fixing
 
 </td>
 </tr>
@@ -124,26 +117,22 @@ i don't believe more lines of code/number of commits/consistency of commits mean
 
 ---
 
-## random stuff i feel is important to put here
+## other things worth mentioning
 
-- **learned cinematography, audio design and modding** via video game camera mods (shoutout to [Matti Hietanen](https://x.com/Hattiwatt1) and [Mikhael Sharov](https://www.artstation.com/miksharov) for enabling this madness)
-- **fixed printers** multiple times (humanity's greatest challenge)
-- **won robotics competitions** with robots assembled the night before (procrastination-driven development)
-- **built competition drones** that actually flew (surprising everyone, including myself)
-- **can argue politics** as well as debug code (equally exhausting, equally satisfying)
+- learned cinematography, audio design, and modding through video game camera mods — credit to [Matti Hietanen](https://x.com/Hattiwatt1) and [Mikhael Sharov](https://www.artstation.com/miksharov) for the rabbit hole
+- fixed printers repeatedly, unwillingly, successfully
+- won robotics competitions with robots assembled the night before
+- built drones that flew — competition-grade, not just "didn't crash immediately"
+- can hold my own arguing politics or debugging code, same energy either way
 
 ---
 
 <div align="center">
 
-### 📫 connect
+### contact
 
-*currently accepting: internship offers, interesting projects, weird challenges, things that sound impossible*
+*open to: internships, interesting projects, problems worth solving*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://daksh_s.codeberg.page/)
-
----
-
-*"i don't always know what i'm doing, but i will probably figure it out"*
 
 </div>
