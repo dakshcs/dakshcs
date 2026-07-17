@@ -121,7 +121,7 @@ commit counts and green squares aren't a proxy for good work — when a metric b
 
 - learned cinematography, audio design, and modding through video game camera mods — credit to [Matti Hietanen](https://x.com/Hattiwatt1) and [Mikhael Sharov](https://www.artstation.com/miksharov) for the rabbit hole
 - fixed printers repeatedly, unwillingly, successfully
-- won robotics competitions with robots assembled the night before
+- won robotics competitions with robots designed and assembled the night before
 - built drones that flew — competition-grade, not just "didn't crash immediately"
 - can hold my own arguing politics or debugging code, same energy either way
 
