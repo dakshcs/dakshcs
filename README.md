@@ -2,7 +2,7 @@
 
 # Daksh Shrivastav
 
-student · robotics, hardware, and somewhat full-stack dev · Delhi, India
+student · robotics, hardware, and full-stack dev · Delhi, India
 
 </div>
 
