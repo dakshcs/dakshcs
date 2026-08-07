@@ -12,13 +12,7 @@ student · robotics, hardware, and full-stack dev · Delhi, India
 
 ### functional polymath, for lack of a better term
 
-i take on things i technically shouldn't know how to do yet, learn them fast, and produce results that make people double-check whether i actually understand it or just got lucky. it's usually the former.
-
-this pattern has produced real, working output in: web dev, mobile apps, video/photo/audio editing, music production, 3D modeling, UI/UX, robotics, electronics, PCB design, CAD, hardware modding, soldering, game modding, and enough repair work to count as a skill on its own.
-
-### how things actually get learned here
-
-take the task → research fast, no hand-holding → build it → fix it until it's solid → move on
+I take on things I technically should not know how to do yet, learn them fast, and produce results that hold up under scrutiny. That pattern has shown up in web development, mobile apps, video/photo/audio editing, music production, 3D modeling, UI/UX, robotics, electronics, PCB design, CAD, hardware modding, soldering, game modding, and repair work.
 
 ---
 
@@ -76,7 +70,7 @@ also: debates, GK comps, and various other things i agreed to before thinking it
 
 ## on stats
 
-commit counts and green squares aren't a proxy for good work — when a metric becomes the target, it stops measuring anything useful. see [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law) if that needs backing up.
+commit counts and green squares aren't a proxy for good work. when a metric becomes the target, it stops measuring anything useful. see [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law) if that needs backing up.
 
 **tl;dr:** don't evaluate code by the metadata around it.
 
